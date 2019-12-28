@@ -1,5 +1,5 @@
 require "socket"
-require "class(player)"
+
 local sprite
 local x 
 local y 
@@ -9,42 +9,63 @@ local speeed = 10
 
 
 local player = {}
-player["age"] = 5
-
-
-
-
-
-
-
-
-function love.load()
+  player["left"] = function(x,y)
     love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogo1.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2
+    end
+  player["right"] = function(x,y)
+  love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogo.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2
+    end
 
-    sprite = love.graphics.newImage('graphics/test.png')
-    x = virtualWidth / 2 - sprite: getWidth() / 2
-    y = virtualHeight / 2 - sprite: getHeight() / 2
-
-    
+  player["down"] = function(x,y)
+  love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogo.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2  
 end
 
 
+
+-- dont touche this
+function love.load() 
+love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogo.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2  
+
+
+end
+
+-- dont touche this
+
 function love.keypressed(key)
-    if key == "i" then
-        print(player.age)
+    if key == "up" then
+        y  = y - 250
         end
     if key == 'escape' then 
     love.event.quit()    
+        end
+     if key == "right" then
+        player.left(x,y)
+        end
+     if key == "left" then 
+        player.right(x,y)
         end
 end
 
 function love.update(dt)
     
-    y = y + 1
-    if love.keyboard.isDown('up') then
-        y = y - 3
-        print(x)
+    if y >= 410 then 
+        y = y + 0
+    else y = y + 1
         end
+
+    
     if  love.keyboard.isDown('down')then
         print(y) 
         y= y + 1
@@ -53,20 +74,19 @@ function love.update(dt)
         x = x - 1
         end
     if  love.keyboard.isDown('left')then
-        x = x + 1
+        x = x + 2
         print(x)
+        
         end
-    if x >= -24 then
-        x = x - 1
+    if x >= 750 then
+        x = x - 2
         end
-    if y > 82 then
-        y = y - 1
-        end 
-    if  y > 83 then
+    
+    if  y > 410 then
         y  = y - 1
         end
     if x < -100 then
-    x = x + 5
+    x = x + 2  
         end    
     end    
    
