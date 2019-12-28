@@ -8,7 +8,7 @@ local virtualHeight = 432
 local speeed = 10
 local  a = 0
 
-dt
+
 
 
 local background = {} 
@@ -27,8 +27,8 @@ local player = {}
     player["init"] = function()
     love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo.png')
-    x = virtualWidth - sprite: getWidth() / 2
-    y = virtualHeight - sprite: getHeight() / 2
+    x = 100
+    y = 410
     end
 
 
