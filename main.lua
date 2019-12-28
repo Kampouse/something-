@@ -9,6 +9,18 @@ local speeed = 10
 local  a = 0
 
 local player = {}
+  
+    player["init"] = function()
+    love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogo.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2
+    end
+
+
+
+
+
   player["left"] = function(x,y)
     love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo1.png') 
@@ -51,16 +63,8 @@ end
 
 -- dont touche this
 function love.load() 
-love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogo.png')
-    x = virtualWidth - sprite: getWidth() / 2
-    y = virtualHeight - sprite: getHeight() / 2  
-
-
+     player.init() 
 end
-
--- dont touche this
-
 function love.keypressed(key)
     local a 
 
@@ -68,9 +72,7 @@ function love.keypressed(key)
         
         player.jump(x,y)
         print(a)
-        y  = y - 250
-        
-            
+        y  = y - 250         
         end
     if key == 'escape' then 
     love.event.quit()    
@@ -92,8 +94,6 @@ function love.update(dt)
         y = y + 0
     else y = y + 1
         end
-
-    
     if  love.keyboard.isDown('down')then
          
         y= y + 1
