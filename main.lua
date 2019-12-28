@@ -6,22 +6,22 @@ local y
 local virtualWidth = 432
 local virtualHeight = 432
 local speeed = 10
-
+local  a = 0
 
 local player = {}
   player["left"] = function(x,y)
     love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogo1.png')
+     sprite = love.graphics.newImage('graphics/dogo1.png') 
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
-    player.state = "left"
+    player.state = "up"
     end
   player["right"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo.png')
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
-    player.state = "right"
+    player.state = "up"
     end
 
 
@@ -31,6 +31,19 @@ local player = {}
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2 - 10  
     player.state = "down"
+
+end
+
+
+
+
+player["jump"] = function(x,y)
+  love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogojump.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2  
+    player.state = "up"
+    
 
 end
 
@@ -49,8 +62,15 @@ end
 -- dont touche this
 
 function love.keypressed(key)
-    if key == "up" then
+    local a 
+
+    if key == "up" and player.state == "up" then
+        
+        player.jump(x,y)
+        print(a)
         y  = y - 250
+        
+            
         end
     if key == 'escape' then 
     love.event.quit()    
@@ -58,6 +78,7 @@ function love.keypressed(key)
      if key == "right" then
         player.left(x,y)
         print(player.state)
+        print(y)
         end
      if key == "left" then 
         player.right(x,y)
@@ -76,8 +97,9 @@ function love.update(dt)
     if  love.keyboard.isDown('down')then
          
         y= y + 1
-        player.down(x,y-10)
+        player.down(x,y + 1000)
         print(player.state)
+        print(y)
         end
     if  love.keyboard.isDown('right')then
         x = x - 1
@@ -91,8 +113,13 @@ function love.update(dt)
         x = x - 2
         end
     
-    if  y > 410 then
-        y  = y - 1
+    if  y > 410 and player.state == "up" then
+            
+            y  = y - 1
+            
+        end   
+    if y > 471.5 and player.state == "down"then 
+        y = y - 1
         end
     if x < -100 then
     x = x + 2  
