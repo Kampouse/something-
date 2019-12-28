@@ -37433,3 +37433,5267 @@ Failed to read: session.screen0.titlebar.left
 Setting default value
 Failed to read: session.screen0.titlebar.right
 Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8994 requests (8994 known processed) with 1 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 9576 requests (9576 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7720 requests (7720 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7460 requests (7460 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7686 requests (7686 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 8257 requests (8257 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8814 requests (8814 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7446 requests (7446 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7721 requests (7721 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7583 requests (7583 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7600 requests (7600 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+X connection to :0 broken (explicit kill or server shutdown).
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7436 requests (7436 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 8358 requests (8358 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8435 requests (8435 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7631 requests (7631 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8575 requests (8575 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7507 requests (7507 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7521 requests (7521 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7570 requests (7570 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7884 requests (7884 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7689 requests (7689 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8398 requests (8398 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7582 requests (7582 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+X connection to :0 broken (explicit kill or server shutdown).
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7526 requests (7526 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+X connection to :0 broken (explicit kill or server shutdown).
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7514 requests (7514 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7484 requests (7484 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7460 requests (7460 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7570 requests (7570 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 8124 requests (8124 known processed) with 1 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 8412 requests (8412 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 7579 requests (7579 known processed) with 0 events remaining.
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 7478 requests (7478 known processed) with 0 events remaining.
+PORT=5900
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.fullMaximization
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.workspaces
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.screen0.slit.acceptKdeDockapps
+Setting default value
+Failed to read: session.screen0.slit.autoHide
+Setting default value
+Failed to read: session.screen0.slit.maxOver
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.alpha
+Setting default value
+Failed to read: session.screen0.slit.onhead
+Setting default value
+Failed to read: session.screen0.slit.layer
+Setting default value
+Failed to read: session.screen0.toolbar.autoHide
+Setting default value
+Failed to read: session.screen0.toolbar.alpha
+Setting default value
+Failed to read: session.screen0.toolbar.layer
+Setting default value
+Failed to read: session.screen0.toolbar.placement
+Setting default value
+Failed to read: session.screen0.toolbar.height
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.iconbar.alignment
+Setting default value
+Failed to read: session.screen0.iconbar.iconWidth
+Setting default value
+Failed to read: session.screen0.iconbar.iconTextPadding
+Setting default value
+Failed to read: session.screen0.iconbar.usePixmap
+Setting default value
+Failed to read: session.screen0.titlebar.left
+Setting default value
+Failed to read: session.screen0.titlebar.right
+Setting default value

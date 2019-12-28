@@ -8,6 +8,20 @@ local virtualHeight = 432
 local speeed = 10
 local  a = 0
 
+dt
+
+
+local background = {} 
+    background["init"] = function()
+    love.graphics.setDefaultFilter('nearest','nearest')
+     sprite1 = love.graphics.newImage('graphics/background.jpg')
+    x1 = 80
+   
+    y1 = 140
+    
+    end
+ --  virtualWidth - sprite1: getWidth() / 2
+
 local player = {}
   
     player["init"] = function()
@@ -43,11 +57,7 @@ local player = {}
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2 - 10  
     player.state = "down"
-
 end
-
-
-
 
 player["jump"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
@@ -55,15 +65,14 @@ player["jump"] = function(x,y)
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2  
     player.state = "up"
-    
-
 end
 
 
 
 -- dont touche this
 function love.load() 
-     player.init() 
+     player.init()
+     background.init() 
 end
 function love.keypressed(key)
     local a 
@@ -97,6 +106,7 @@ function love.update(dt)
     if  love.keyboard.isDown('down')then
          
         y= y + 1
+        
         player.down(x,y + 1000)
         print(player.state)
         print(y)
@@ -127,5 +137,9 @@ function love.update(dt)
 end    
 
 function love.draw()
+    -- background --
+    love.graphics.draw(sprite1,x1,y1)
+    -- lane and char --
     love.graphics.draw(sprite,x,y)
+   
 end
