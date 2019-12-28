@@ -14,19 +14,24 @@ local player = {}
      sprite = love.graphics.newImage('graphics/dogo1.png')
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
+    player.state = "left"
     end
   player["right"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo.png')
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
+    player.state = "right"
     end
+
 
   player["down"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogo.png')
+     sprite = love.graphics.newImage('graphics/dogosleep.png')
     x = virtualWidth - sprite: getWidth() / 2
-    y = virtualHeight - sprite: getHeight() / 2  
+    y = virtualHeight - sprite: getHeight() / 2 - 10  
+    player.state = "down"
+
 end
 
 
@@ -52,9 +57,11 @@ function love.keypressed(key)
         end
      if key == "right" then
         player.left(x,y)
+        print(player.state)
         end
      if key == "left" then 
         player.right(x,y)
+        print(player.state)
         end
 end
 
@@ -67,8 +74,10 @@ function love.update(dt)
 
     
     if  love.keyboard.isDown('down')then
-        print(y) 
+         
         y= y + 1
+        player.down(x,y-10)
+        print(player.state)
         end
     if  love.keyboard.isDown('right')then
         x = x - 1
@@ -88,8 +97,8 @@ function love.update(dt)
     if x < -100 then
     x = x + 2  
         end    
-    end    
-   
+end    
+
 function love.draw()
     love.graphics.draw(sprite,x,y)
 end
