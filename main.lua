@@ -15,19 +15,37 @@ local background = {}
     background["init"] = function()
     love.graphics.setDefaultFilter('nearest','nearest')
      sprite1 = love.graphics.newImage('graphics/background.jpg')
-    x1 = 80
-   
+    x1 = 80  
     y1 = 140
     
     end
  --  virtualWidth - sprite1: getWidth() / 2
 
 local player = {}
+
+
+    player["translateleft"] = function(x,y)
+         love.graphics.translate(x,y)
+         x1 = x1 - 2
+         if  x1 <= -183 then
+            x1 = x1 + 2
+             end
+        end
+
+
+
+    player["translateright"] = function(x,y)
+        love.graphics.translate(x,y)
+        x1 = x1 + 2
+        print(x1,"x1")
+        end
+
+
   
     player["init"] = function()
     love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo.png')
-    x = 100
+    x = 410
     y = 410
     end
 
@@ -37,14 +55,14 @@ local player = {}
 
   player["left"] = function(x,y)
     love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogo1.png') 
+     sprite = love.graphics.newImage('graphics/dogo.png') 
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
     player.state = "up"
     end
   player["right"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogo.png')
+     sprite = love.graphics.newImage('graphics/dogo1.png')
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
     player.state = "up"
@@ -112,11 +130,12 @@ function love.update(dt)
         print(y)
         end
     if  love.keyboard.isDown('right')then
-        x = x - 1
+        player.translateleft(x1,y1) -- test 
+        
         end
     if  love.keyboard.isDown('left')then
-        x = x + 2
-        print(x)
+        player.translateright(x1,y1) -- test
+        
         
         end
     if x >= 750 then
