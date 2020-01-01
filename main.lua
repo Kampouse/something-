@@ -59,6 +59,7 @@ local player = {}
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
     player.state = "up"
+    player.face = "left"
     end
   player["right"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
@@ -66,6 +67,7 @@ local player = {}
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2
     player.state = "up"
+    player.face = "right"
     end
 
 
@@ -106,12 +108,13 @@ function love.keypressed(key)
         end
      if key == "right" then
         player.left(x,y)
-        print(player.state)
+        print(player.state,player.face)
+        
         print(y)
         end
      if key == "left" then 
         player.right(x,y)
-        print(player.state)
+        print(player.state,player.face)
         end
 end
 
@@ -153,6 +156,15 @@ function love.update(dt)
     if x < -100 then
     x = x + 2  
         end    
+    if y > 412 and player.face == "left" then 
+        player.left(x,y)
+        end
+    if y == 410 and player.face == "right" then
+        player.right(x,y)
+        end 
+    if y == 410  and player.face == "left" then
+        player.left(x,y)
+        end 
 end    
 
 function love.draw()
