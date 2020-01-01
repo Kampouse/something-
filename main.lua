@@ -75,7 +75,7 @@ local player = {}
   love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogosleep.png')
     x = virtualWidth - sprite: getWidth() / 2
-    y = virtualHeight - sprite: getHeight() / 2 - 10  
+    y = virtualHeight - sprite: getHeight() / 2   
     player.state = "down"
 end
 
@@ -156,7 +156,7 @@ function love.update(dt)
     if x < -100 then
     x = x + 2  
         end    
-    if y > 412 and player.face == "left" then 
+    if y > 412 and player.face == "left"   then 
         player.left(x,y)
         end
     if y == 410 and player.face == "right" then
