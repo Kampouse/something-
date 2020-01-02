@@ -86,13 +86,7 @@ player["jump"] = function(x,y)
     y = virtualHeight - sprite: getHeight() / 2  
     player.state = "up"
 end
-player["jumpleft"] = function(x,y)
-  love.graphics.setDefaultFilter('nearest','nearest')
-     sprite = love.graphics.newImage('graphics/dogojumpleft.png')
-    x = virtualWidth - sprite: getWidth() / 2
-    y = virtualHeight - sprite: getHeight() / 2  
-    player.state = "up"
-end
+
 
 
 -- dont touche this
@@ -104,13 +98,9 @@ function love.keypressed(key)
     local a 
 
     if key == "up" and player.state == "up" then
-        if player.face == "left" then 
-            player.jump(x,y)
+        
+        player.jump(x,y)
         print(a)
-        end
-        if player.face == "right" then 
-            player.jumpleft(x,y)
-            end
         y  = y - 250         
         end
     if key == 'escape' then 
@@ -132,7 +122,7 @@ function love.update(dt)
     
     if y >= 410 then 
         y = y + 0
-    else y = y + 3
+    else y = y + 1
         end
     if  love.keyboard.isDown('down')then
          
