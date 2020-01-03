@@ -225,5 +225,11 @@ function love.draw()
     love.graphics.draw(sprite1,x1,y1)
     -- lane and char --
     love.graphics.draw(sprite,x,y)
-    love.graphics.draw(talks,x - 80 ,y - 125)
+    if x1 <= -2  then 
+        love.graphics.draw(talks,x - 80 ,y - 125)
+            if x1 > -2 then
+                love.graphics.draw(talks,x - 80 ,y - 125)
+                end
+
+        end
 end
