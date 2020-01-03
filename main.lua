@@ -1,4 +1,4 @@
-require "socket"
+    
 
 local sprite
 local x 
@@ -61,6 +61,10 @@ local player = {}
     player.state = "up"
     player.face = "left"
     end
+
+
+
+
   player["right"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogo1.png')
@@ -79,12 +83,24 @@ local player = {}
     player.state = "down"
 end
 
-player["jump"] = function(x,y)
+
+
+player["jumpleft"] = function(x,y)
   love.graphics.setDefaultFilter('nearest','nearest')
      sprite = love.graphics.newImage('graphics/dogojump.png')
     x = virtualWidth - sprite: getWidth() / 2
     y = virtualHeight - sprite: getHeight() / 2  
     player.state = "up"
+    player.face = "left"
+end
+
+player["jump"] = function(x,y)
+  love.graphics.setDefaultFilter('nearest','nearest')
+     sprite = love.graphics.newImage('graphics/dogojumpleft.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2  
+    player.state = "up"
+    player.face = "right"
 end
 
 
@@ -98,8 +114,15 @@ function love.keypressed(key)
     local a 
 
     if key == "up" and player.state == "up" then
-        
-        player.jump(x,y)
+        if player.face == "right" then 
+            player.jump(x,y)
+            end
+        if player.face == "left" then
+            player.jumpleft(x,y)
+             end
+
+
+
         print(a)
         y  = y - 250         
         end
@@ -122,11 +145,16 @@ function love.update(dt)
     
     if y >= 410 then 
         y = y + 0
-    else y = y + 1
+    else 
+        y = y + 2
+        end
+    if 
+        y < 0 then
+        y = - 10 
         end
     if  love.keyboard.isDown('down')then
          
-        y= y + 1
+        y= y 
         
         player.down(x,y + 1000)
         print(player.state)
@@ -156,15 +184,23 @@ function love.update(dt)
     if x < -100 then
     x = x + 2  
         end    
-    if y > 412 and player.face == "left"   then 
-        player.left(x,y)
+    if y >= 410 and player.face == "left"  then 
+        if player.state == "up" then    
+            player.left(x,y)
+            end
         end
-    if y == 410 and player.face == "right" then
+    if y >= 410 and player.face == "right" then
+        if player.state == "up" then
         player.right(x,y)
+            end
         end 
-    if y == 410  and player.face == "left" then
-        player.left(x,y)
-        end 
+    
+    if y > 400 and player.state == "down" then
+        if player.face == "left" or "right" then
+            player.down(x,y)
+            
+            end
+        end
 end    
 
 function love.draw()
