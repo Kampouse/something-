@@ -23,6 +23,11 @@ local background = {}
 
 local player = {}
 
+    player["text_init"] = function()
+       
+        love.graphics.setDefaultFilter('nearest','nearest')
+        talks = love.graphics.newImage('graphics/talks.png')
+     end
 
     player["translateleft"] = function(x,y)
          love.graphics.translate(x,y)
@@ -109,7 +114,8 @@ end
 -- dont touche this
 function love.load() 
      player.init()
-     background.init() 
+     background.init()
+     player.text_init() 
 end
 function love.keypressed(key)
     local a 
@@ -219,5 +225,5 @@ function love.draw()
     love.graphics.draw(sprite1,x1,y1)
     -- lane and char --
     love.graphics.draw(sprite,x,y)
-   
+    love.graphics.draw(talks,x - 80 ,y - 125)
 end
