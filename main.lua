@@ -27,6 +27,7 @@ local player = {}
        
         love.graphics.setDefaultFilter('nearest','nearest')
         talks = love.graphics.newImage('graphics/talks.png')
+        player.talk = "TRUE"
      end
 
     player["translateleft"] = function(x,y)
@@ -228,14 +229,20 @@ function love.draw()
   if player.state == "up" then  
         if x1 <= -2 and x1 > -100  then 
             love.graphics.draw(talks,x - 80 ,y - 125)
+            player.talk = "true"
+            print(player.talk)
                 if x1 > -50  and x1 < -60 then
                     love.graphics.draw(talks,x - 80 ,y - 125)
-                    print(x1)
+                    
                     end
 
-    
+            else player.talk = "false"
+                 print(player.talk)   
+         
             end
-     end   
+         
+     end
+
 
 end
 
