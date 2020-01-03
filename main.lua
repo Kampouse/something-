@@ -47,6 +47,7 @@ local player = {}
      sprite = love.graphics.newImage('graphics/dogo.png')
     x = 410
     y = 410
+    player.state = "up"
     end
 
 
@@ -142,15 +143,25 @@ function love.keypressed(key)
 end
 
 function love.update(dt)
-    
-    if y >= 410 then 
-        y = y + 0
-    else 
-        y = y + 2
+    if y >= 460 and player.state == "down"  then
+        y = y - 2
         end
-    if 
-        y < 0 then
-        y = - 10 
+    if y >= 410 and player.state == "up"  then
+         
+
+        y = y + 0      
+    else  y = y + 2
+        end
+    if y > 410 and player.state == "up" then 
+        y = y - 17
+        end
+    if  y == 0 and player.state == "up" then
+        if player.state == "down" then
+            y = y - 20
+            end
+        y =  y - 2
+            
+                 
         end
     if  love.keyboard.isDown('down')then
          
