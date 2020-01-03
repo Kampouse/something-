@@ -152,8 +152,8 @@ function love.update(dt)
         y = y + 0      
     else  y = y + 2
         end
-    if y > 410 and player.state == "up" then 
-        y = y - 17
+    if y > 413 and player.state == "up" then 
+        y = y - 20
         end
     if  y == 0 and player.state == "up" then
         if player.state == "down" then
