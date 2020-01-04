@@ -125,15 +125,18 @@ blocks["init"] = function(x1,y1)
 
 
 blocks["collision"] = function()
-if  y <= y1 + 250 and y > 300   then
-    if player.state == "up" then
-        y = y - 2 
-        print(y)
+if  y >= 130 and y <= 140  then -- height
+    if x1 > 0 and x1 < 406 then -- left and right
+        if player.state == "up" then --  state for the player
+            if player.face == "left" then --  where are they looking
+               player.left(x,y)
+            else player.right(x,y) 
+                end 
+                y = y - 2    -- how its stand the rest is for the corner    
+            end
         end
-else print("y",y,"y1",y1)
+else print("x1",x1,"y1",y1)
     end
-
-
 end 
 
 
@@ -256,7 +259,7 @@ end
 function love.draw()
     -- background --
     love.graphics.draw(sprite1,x1,y1)
-    love.graphics.draw(block,x1,y1 + 250)
+    love.graphics.draw(block,x1,250)
     -- lane and char --
     love.graphics.draw(sprite,x,y)
   if player.state == "up" then  
