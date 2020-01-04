@@ -111,12 +111,42 @@ player["jump"] = function(x,y)
 end
 
 
+local blocks = {}
+
+
+blocks["init"] = function(x1,y1)
+  love.graphics.setDefaultFilter('nearest','nearest')
+     block = love.graphics.newImage('graphics/block.png')
+    x = virtualWidth - sprite: getWidth() / 2
+    y = virtualHeight - sprite: getHeight() / 2  
+    print("meh")
+    end
+
+
+
+blocks["collision"] = function()
+if  y <= y1 + 250 and y > 300   then
+    if player.state == "up" then
+        y = y - 2 
+        print(y)
+        end
+else print("y",y,"y1",y1)
+    end
+
+
+end 
+
+
+
+
+
 
 -- dont touche this
 function love.load() 
      player.init()
      background.init()
-     player.text_init() 
+     player.text_init()
+     blocks.init() 
 end
 function love.keypressed(key)
     local a 
@@ -219,11 +249,14 @@ function love.update(dt)
             
             end
         end
+
+    blocks.collision()  
 end    
 
 function love.draw()
     -- background --
     love.graphics.draw(sprite1,x1,y1)
+    love.graphics.draw(block,x1,y1 + 250)
     -- lane and char --
     love.graphics.draw(sprite,x,y)
   if player.state == "up" then  
@@ -237,7 +270,7 @@ function love.draw()
                     end
 
             else player.talk = "false"
-                 print(player.talk)   
+                   
          
             end
          
