@@ -1,4 +1,4 @@
-    
+local sti = require 'sti'
 
 local sprite
 local x 
@@ -7,7 +7,7 @@ local virtualWidth = 432
 local virtualHeight = 432
 local speeed = 10
 local  a = 0
-
+local map
 
 
 
@@ -145,11 +145,19 @@ end
 
 
 -- dont touche this
+
+function love.load()
+    map = sti("map1.lua")
+
+
+end
 function love.load() 
+    
      player.init()
      background.init()
      player.text_init()
-     blocks.init() 
+     blocks.init()
+    
 end
 function love.keypressed(key)
     local a 
@@ -183,6 +191,11 @@ function love.keypressed(key)
 end
 
 function love.update(dt)
+map:update(dt)
+end
+    
+function love.update(dt)
+     
     if y >= 460 and player.state == "down"  then
         y = y - 2
         end
@@ -255,12 +268,15 @@ function love.update(dt)
 
     blocks.collision()  
 end    
-
+ function love.draw()
+     map:draw()
+     end
 function love.draw()
     -- background --
     love.graphics.draw(sprite1,x1,y1)
     love.graphics.draw(block,x1,250)
     -- lane and char --
+    
     love.graphics.draw(sprite,x,y)
   if player.state == "up" then  
         if x1 <= -2 and x1 > -100  then 
@@ -281,4 +297,3 @@ function love.draw()
 
 
 end
-
